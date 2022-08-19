@@ -1,0 +1,5 @@
+          Home (State) data  每個元件都可以有自己的狀態
+          /   \  (props)
+  (State)Edit   List
+                \  (props)
+                Item
